@@ -1,0 +1,37 @@
+body {
+  font-family: Verdana, Helvetica, san-serif;
+  background-color: #E2EDFF;
+  line-height: 125%;
+  padding: 15px; 
+}
+
+p {
+  color: #000080;
+  font-size: small;
+}
+
+.tagline {
+  font-weight: italics;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+a:link {
+  font-weight: bold;
+  
+}
+
+a:hover {
+    color: #FFF;
+    background-color: #000080;
+  
+}
+
+a:visited {
+  
+  
+}
+
+a:active {
+  
+  
+}
